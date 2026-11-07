@@ -60,7 +60,7 @@ He trabajado en equipo con metodología Scrum, participando en sprints, demos y 
 ### 💼 Experiencia
 
 **Prácticas pre-profesionales — Unidad de Informática, Facultad de Medicina Humana (USMP)**
-`mar. 2026 – actualidad`
+<br>`mar. 2026 – actualidad`
 
 - Desarrollo full-stack y soporte de infraestructura TI: administración de Active Directory, configuración de red, diagnóstico de hardware y accesos remotos.
 - **Sistema de Inventario FMH:** sistema web (Blazor WebAssembly + Supabase autoalojado) para centralizar el registro, ubicación y mantenimiento de los equipos de la Facultad.
@@ -72,12 +72,12 @@ He trabajado en equipo con metodología Scrum, participando en sprints, demos y 
 ### 🚀 Proyectos
 
 **UrbanPulse** — Sistema cívico de reporte de incidencias ciudadanas (proyecto universitario)
-Rol: Backend & IA Engineer · Orquestación con n8n, PostgreSQL/Neon e integración de modelos Gemini y Groq para un chatbot conversacional.
-`n8n` `PostgreSQL` `Gemini` `Groq`
+<br>Rol: Backend & IA Engineer · Orquestación con n8n, PostgreSQL/Neon e integración de modelos Gemini y Groq para un chatbot conversacional.
+<br>`n8n` `PostgreSQL` `Gemini` `Groq`
 
 **M/M Contratistas — Sistema de Gestión Digital** (Grupo 3)
-Proyecto en equipo desarrollado en sprints bajo metodología Scrum.
-`Scrum` `Trabajo en equipo`
+<br>Proyecto en equipo desarrollado en sprints bajo metodología Scrum.
+<br>`Scrum` `Trabajo en equipo`
 
 > 📌 Iré enlazando cada repositorio aquí a medida que los vaya subiendo/organizando como públicos.
 
