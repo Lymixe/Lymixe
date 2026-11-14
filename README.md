@@ -4,7 +4,7 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=Lymixe&style=for-the-badge&color=0EA5E9&label=VISITAS)
 
-[![Gmail](https://img.shields.io/badge/-peraltacenepoemily%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peraltacenepoemily@gmail.com)
+[![Gmail](https://img.shields.io/badge/-peraltacenepoemily%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peraltacenepoemily@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Lymixe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lymixe)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emily-peralta-0b1912437/)
 
@@ -26,34 +26,34 @@ He trabajado en equipo con metodología Scrum, participando en sprints, demos y 
 
 **Lenguajes y Backend**
 
-![Python](https://img.shields.io/badge/Python-0D9488?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0D9488?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0D9488?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks**
 
-![Blazor](https://img.shields.io/badge/Blazor-6366F1?style=for-the-badge&logo=blazor&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-6366F1?style=for-the-badge&logo=laravel&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-6366F1?style=for-the-badge&logo=qt&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 **Datos y BaaS**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0EA5E9?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Automatización e IA**
 
-![n8n](https://img.shields.io/badge/n8n-8B5CF6?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs%20REST-8B5CF6?style=for-the-badge)
-![IA Generativa](https://img.shields.io/badge/IA%20Generativa-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **DevOps y herramientas**
 
-![Git](https://img.shields.io/badge/Git-14B8A6?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-14B8A6?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-14B8A6?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-14B8A6?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -87,8 +87,8 @@ He trabajado en equipo con metodología Scrum, participando en sprints, demos y 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lymixe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lymixe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lymixe&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadisticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lymixe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes mas usados" />
 
 </div>
 
