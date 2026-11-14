@@ -87,8 +87,11 @@ He trabajado en equipo con metodología Scrum, participando en sprints, demos y 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lymixe&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadisticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lymixe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes mas usados" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lymixe&theme=tokyonight" alt="Lenguajes por repositorio" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lymixe&theme=tokyonight" alt="Lenguajes por commits" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lymixe&theme=tokyonight" alt="Estadisticas generales" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lymixe&theme=tokyonight&utcOffset=-5" alt="Horario productivo" />
 
 </div>
 
